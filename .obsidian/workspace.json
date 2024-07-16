@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "98fe9ee08269ae49",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ef18c9b9559b5ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df41795261c76e94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회사/PDS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ad7d9c8bc08e77e",
+    "type": "split",
+    "children": [
+      {
+        "id": "360164c758ba2adb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c9590eaf7aaf36c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e36932299923446e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "props",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83b5ece6c45133c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "d3ae0a1e3dd32efc",
+    "type": "split",
+    "children": [
+      {
+        "id": "86a38456fc7b6d14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fbf460d11445e4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "회사/PDS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4db0828052fda96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "회사/PDS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d413aea6f3ebe58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8901c95955bf3972",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "회사/PDS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "df41795261c76e94",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "회사/PDS.md",
+    "회사",
+    "FrontEnd/JS/Methods/Array.md",
+    "FrontEnd/Vue/Methods/Options (빌트인).md",
+    "FrontEnd/Vue/Methods/v-on.md",
+    "FrontEnd/TS/개념/tsconfig.json.md",
+    "FrontEnd/Vue/Methods/Props & Emit.md",
+    "FrontEnd/Vue/Methods/Computed.md",
+    "FrontEnd/Vue/개념/표기법.md",
+    "FrontEnd/Vue/제약사항 및 주의사항.md",
+    "FrontEnd/Vue/Methods/watch.md",
+    "FrontEnd/Vue/Methods/v-bind.md",
+    "FrontEnd/Vue/Methods/Provide & Enject.md",
+    "FrontEnd/Vue/Test/개념.md",
+    "FrontEnd/Vue/Test/Vitest.md",
+    "FrontEnd/Vue/Test/Jest.md",
+    "FrontEnd/Bundler/Vite/환경설정.md",
+    "Dev/Node/NPM.md",
+    "FrontEnd/JS/예시코드.md",
+    "FrontEnd/JS/개념/Symbol.md",
+    "FrontEnd/JS/개념/Prototype.md",
+    "FrontEnd/JS/Methods/API.md",
+    "FrontEnd/Vue/예시코드.md",
+    "Dev/Git/사용법.md",
+    "FrontEnd/Vue/Methods/Component.md",
+    "FrontEnd/Vue/Methods/Slot.md",
+    "FrontEnd/Vue/Test/Untitled",
+    "FrontEnd/Vue/Test",
+    "FrontEnd/Vue/Untitled.canvas",
+    "FrontEnd/Vue/Methods",
+    "FrontEnd/Vue/개념",
+    "FrontEnd/Vue/프레임워크/SSR",
+    "FrontEnd/TS/개념",
+    "FrontEnd/TS/Methods",
+    "FrontEnd/JS/개념",
+    "기본개념"
+  ]
+}
