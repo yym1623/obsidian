@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/PDS.md",
+                "file": "FrontEnd/Bundler/Vite/환경설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/PDS.md",
+                "file": "FrontEnd/Bundler/Vite/환경설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/PDS.md",
+                "file": "FrontEnd/Bundler/Vite/환경설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/PDS.md"
+                "file": "FrontEnd/Bundler/Vite/환경설정.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "df41795261c76e94",
   "lastOpenFiles": [
-    "FrontEnd/TS/개념/환경설정.md",
+    "FrontEnd/JS/Methods/String.md",
+    "FrontEnd/TS/개념/문법.md",
     "회사/PDS.md",
+    "FrontEnd/TS/환경설정.md",
     "MarkDown.md",
     "Untitled.md",
     "회사",
@@ -173,8 +175,6 @@
     "FrontEnd/JS/개념/Prototype.md",
     "FrontEnd/JS/Methods/API.md",
     "FrontEnd/Vue/예시코드.md",
-    "Dev/Git/사용법.md",
-    "FrontEnd/Vue/Methods/Component.md",
     "FrontEnd/Vue/Test/Untitled",
     "FrontEnd/Vue/Test",
     "FrontEnd/Vue/Untitled.canvas",
