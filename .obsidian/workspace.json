@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Bundler/Vite/환경설정.md",
+                "file": "FrontEnd/TS/개념/사용법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Bundler/Vite/환경설정.md",
+                "file": "FrontEnd/TS/개념/사용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Bundler/Vite/환경설정.md",
+                "file": "FrontEnd/TS/개념/사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Bundler/Vite/환경설정.md"
+                "file": "FrontEnd/TS/개념/사용법.md"
               }
             }
           }
@@ -148,10 +148,13 @@
   },
   "active": "df41795261c76e94",
   "lastOpenFiles": [
-    "FrontEnd/JS/Methods/String.md",
     "FrontEnd/TS/개념/문법.md",
-    "회사/PDS.md",
+    "FrontEnd/TS/개념/사용법.md",
     "FrontEnd/TS/환경설정.md",
+    "FrontEnd/Vue/개념/표기법.md",
+    "FrontEnd/Bundler/Vite/환경설정.md",
+    "FrontEnd/JS/Methods/String.md",
+    "회사/PDS.md",
     "MarkDown.md",
     "Untitled.md",
     "회사",
@@ -160,7 +163,6 @@
     "FrontEnd/Vue/Methods/v-on.md",
     "FrontEnd/Vue/Methods/Props & Emit.md",
     "FrontEnd/Vue/Methods/Computed.md",
-    "FrontEnd/Vue/개념/표기법.md",
     "FrontEnd/Vue/제약사항 및 주의사항.md",
     "FrontEnd/Vue/Methods/watch.md",
     "FrontEnd/Vue/Methods/v-bind.md",
@@ -168,13 +170,11 @@
     "FrontEnd/Vue/Test/개념.md",
     "FrontEnd/Vue/Test/Vitest.md",
     "FrontEnd/Vue/Test/Jest.md",
-    "FrontEnd/Bundler/Vite/환경설정.md",
     "Dev/Node/NPM.md",
     "FrontEnd/JS/예시코드.md",
     "FrontEnd/JS/개념/Symbol.md",
     "FrontEnd/JS/개념/Prototype.md",
     "FrontEnd/JS/Methods/API.md",
-    "FrontEnd/Vue/예시코드.md",
     "FrontEnd/Vue/Test/Untitled",
     "FrontEnd/Vue/Test",
     "FrontEnd/Vue/Untitled.canvas",
