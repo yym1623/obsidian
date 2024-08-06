@@ -80,7 +80,7 @@ str.substr(6, 5) // 6번째부터 5개 문자 반환
 ###### split
 ---
 ```js
-split - 첫 번째 문자를 기준으로 하여 문자열을 잘라 각 배열 요소에 담은 뒤에 해당 배열 객체를 반환한다
+// split - 첫 번째 문자 기준으로 문자열을 잘라 각 배열 요소에 담은 뒤에 배열 객체를 반환한다
 str.split("/")
 
 console.log(result) // [ 'Hello', 'World' ]
@@ -92,12 +92,12 @@ console.log(result[1]) // World
 ###### toLowerCase, toUpperCase
 ---
 ```js
-toLowerCase - 문자열 안에 대문자를 모두 소문자로 변환한다
+// toLowerCase - 문자열 안에 대문자를 모두 소문자로 변환한다
 str.toLowerCase()
 ```
 
 ```js
-toUpperCase - 문자열 안에 소문자를 모두 대문자로 변환한다
+// toUpperCase - 문자열 안에 소문자를 모두 대문자로 변환한다
 str.toLowerCase()
 ```
 
@@ -105,7 +105,7 @@ str.toLowerCase()
 ###### concat
 ---
 ```js
-concat - 넘어온 문자열을 기존 문자열 뒤에 합친다
+// concat - 넘어온 문자열을 기존 문자열 뒤에 합친다
 str.concat(str2)
 ```
 
@@ -113,7 +113,7 @@ str.concat(str2)
 ###### trim
 ---
 ```js
-trim - 문자열 양쪽 끝에 공백을 제거한다
+// trim - 문자열 양쪽 끝에 공백을 제거한다
 str.trim()
 ```
 

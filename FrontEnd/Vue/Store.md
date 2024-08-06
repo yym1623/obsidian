@@ -1,5 +1,5 @@
 
->[!info] 공문의 composition api 방식으로 작성합니다
+>[!info] 공문의 composition api 방식으로 작성합니다(Pinia)
 
 
 ###### Pinia 개념

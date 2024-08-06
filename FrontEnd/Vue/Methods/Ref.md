@@ -20,6 +20,7 @@ const datas = reactive({}) // {} or []
 const dom = ref(null);
 ```
 
+
 ###### shallowRef
 ---
 1. 동적으로 컴포넌트를 변경해야 할 경우 사용(`ref`보다 가볍다)
@@ -35,6 +36,8 @@ const data = shallowRef('')
 > 1. ref에 let 객체가 들어가있어서 ref로 생성한 객체는 수정이 가능하다
 > 2. const로 만든건 상수라 변경이 불가능하지만 const안에 ref로 만든건 변경이 가능하다
 > 3. 수정하는건 const안에 ref 즉 그 안 .value로 변경하는 let객체를 변경하는거기 떄문이다
+
+
 
 
 #ref #reactive #shallowRef #dom

@@ -34,4 +34,6 @@ const calculate = computed({
 >4. 부모에서 내려온 props를 자식 컴포넌트에서 script로 알아야할 일은 없으니까 말이다
 
 
+
+
 #computed

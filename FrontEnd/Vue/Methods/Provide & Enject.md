@@ -29,4 +29,6 @@ const message = inject(myKey, '기본값테스트')
 >3. 이들은 서로다른 심볼 값이며 독립적으로 생성된다. 하지만 Vue.js의 내부 로직에 따라 이들은 연결되어 데이터 전달이 이루어진다
 
 
+
+
 #provide #inject
