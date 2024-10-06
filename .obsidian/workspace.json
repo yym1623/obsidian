@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8d79af559e2dddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MarkDown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -148,7 +160,25 @@
   },
   "active": "c923f31591e5d978",
   "lastOpenFiles": [
+    "FrontEnd/Vue/Methods/Props & Emit.md",
+    "FrontEnd/Vue/Methods/Component.md",
+    "FrontEnd/Vue/라이브러리/IONIC.md",
+    "FrontEnd/Vue/라이브러리/ELECTRON.md",
+    "FrontEnd/Vue/개념/표기법.md",
+    "요일별_메모/24-10-02.md",
+    "요일별_메모/24-10-03.md",
+    "요일별_메모/24-10-05.md",
+    "요일별_메모/24-10-06.md",
+    "요일별_메모/24-10-01.md",
+    "요일별_메모/24-09-20.md",
+    "요일별_메모/24-09-17.md",
     "MarkDown.md",
+    "Untitled",
+    "FrontEnd/TS/환경설정.md",
+    "요일별_메모",
+    "메모/Untitled.md",
+    "메모",
+    "회사/PDS.md",
     "2024-08-06.md",
     "FrontEnd/JS/Methods/Array.md",
     "FrontEnd/Vue/예시코드.md",
@@ -157,33 +187,15 @@
     "FrontEnd/JS/개념/Type-Checking.md",
     "FrontEnd/TS/개념/문법.md",
     "FrontEnd/TS/개념/사용법.md",
-    "FrontEnd/TS/환경설정.md",
-    "FrontEnd/Vue/Methods/Component.md",
-    "FrontEnd/Vue/라이브러리/ELECTRON.md",
-    "FrontEnd/Vue/라이브러리/IONIC.md",
     "FrontEnd/JS/라이브러리/FIXIJS.md",
     "FrontEnd/JS/라이브러리",
     "FrontEnd/JS/Untitled.md",
     "FrontEnd/Vue/라이브러리",
-    "FrontEnd/JS/Methods/API.md",
-    "FrontEnd/Vue/Store.md",
-    "FrontEnd/Vue/Router.md",
-    "FrontEnd/Vue/제약사항 및 주의사항.md",
-    "FrontEnd/Vue/Test/개념.md",
-    "FrontEnd/Vue/Test/Jest.md",
-    "FrontEnd/Vue/Test/Vitest.md",
-    "FrontEnd/Vue/Methods/watch.md",
-    "FrontEnd/Vue/Methods/v-on.md",
-    "FrontEnd/Vue/Methods/v-bind.md",
-    "FrontEnd/Vue/Methods/Slot.md",
     "회사",
     "FrontEnd/Vue/Test/Untitled",
     "FrontEnd/Vue/Test",
     "FrontEnd/Vue/Untitled.canvas",
     "FrontEnd/Vue/Methods",
-    "FrontEnd/Vue/개념",
-    "FrontEnd/Vue/프레임워크/SSR",
-    "FrontEnd/TS/개념",
-    "FrontEnd/TS/Methods"
+    "FrontEnd/Vue/개념"
   ]
 }
